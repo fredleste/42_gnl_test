@@ -1,0 +1,11 @@
+hello
+my
+name
+is
+pierre
+and
+i'm
+a
+student
+at
+42
